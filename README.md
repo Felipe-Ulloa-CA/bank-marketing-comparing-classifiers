@@ -29,7 +29,6 @@ https://github.com/Felipe-Ulloa-CA/bank-marketing-comparing-classifiers/blob/mai
 Based on performance and interpretability, Logistic Regression is recommended for deployment.
 
 ## Author
-
 **Felipe Eduardo Ulloa Orellana**  
 UC Berkeley Professional Certificate in Machine Learning & AI  
 Silicon Valley, California
